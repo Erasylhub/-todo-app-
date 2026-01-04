@@ -1,0 +1,24 @@
+# 📝 ToDo App (FastAPI + Streamlit)
+
+Fullstack ToDo application with authentication and JWT.
+
+## 🚀 Stack
+- Backend: FastAPI, SQLAlchemy (Async), PostgreSQL
+- Frontend: Streamlit
+- Auth: JWT (OAuth2) , hash_password (passlib)
+
+## 📦 Features
+- User registration & login
+- JWT authentication
+- Create / Read / Update / Delete todos
+- User-specific todos
+- Delete account
+- Streamlit UI
+- Else FastAPI docs
+
+## ⚙️ Installation
+
+### 1. Clone repository
+```bash
+git clone https://github.com/your-username/todo-app.git
+cd todo-app
